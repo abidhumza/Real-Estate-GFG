@@ -1,6 +1,6 @@
 # Real Estate App - MERN Stack
 
-Welcome to the Real Estate App project! In this collaborative effort by Ritika Mishra and Abid Humza, we aim to build a comprehensive Real Estate web application utilizing the MERN (MongoDB, Express.js, React, Node.js) stack.
+This Real Estate App is a collaborative effort by Ritika Mishra and Abid Humza, aimed at providing users with a sophisticated and user-friendly platform for exploring and managing real estate listings. We aim to build a comprehensive Real Estate web application utilizing the MERN (MongoDB, Express.js, React, Node.js) stack.
 
 ## Developers
 
@@ -66,4 +66,4 @@ Explore advanced features implemented in the Real Estate App:
 
 - **Deployment Made Easy:** Learn the deployment process for the MERN real estate app, making it accessible to users globally.
 
-This Real Estate App is a collaborative effort by Ritika Mishra and Abid Humza, aimed at providing users with a sophisticated and user-friendly platform for exploring and managing real estate listings. Happy coding!
+Happy coding!
